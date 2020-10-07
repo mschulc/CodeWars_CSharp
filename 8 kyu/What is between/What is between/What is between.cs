@@ -1,6 +1,4 @@
-﻿using System;
-
-public class Kata
+﻿public class Kata
 {
     public static int[] Between(int a, int b)
     {
