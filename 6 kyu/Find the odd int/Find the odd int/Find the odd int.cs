@@ -19,6 +19,7 @@ namespace Solution
                 if (c % 2 != 0)
                     x = i;
             }
+
             return x;
         }
     }
